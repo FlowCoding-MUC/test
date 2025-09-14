@@ -11,6 +11,9 @@ def saytime():
 
 name = input("Bitte seien Sie so freundlich und geben Sie ihren Vornamen ein: ")
 
+def newfeature():
+    print("I added something")
+
 begruessung(name)
 saytime()
 tschuess(name)
